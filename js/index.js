@@ -5,4 +5,5 @@ $(document).ready(function () {
   $('#navbar li').children('show')
 })
 addClass('active')*/
+$('body').scrollspy({ target: '.nav-stacked' })
 });  

@@ -18,6 +18,9 @@ body {
     padding-top: 75px;
     padding-bottom: 70px;
 }
+/* .wrapperTop {
+    padding-top: 70px;
+} */
 /* .col-lg-3 {
     width: 25%;
   } */
@@ -64,3 +67,21 @@ a:hover {
 .deepBlue{
  color:rgb(5,165,209);
 }
+/* #funding{
+  position: relative;
+} */
+ul.nav-pills{
+      top: 180px;
+    position: fixed;
+}
+.target-fix {
+   position: relative;
+   top: -44px; 
+   display: block;
+   height: 44px;
+   overflow: hidden;
+
+}  
+/* ul:target{
+    padding-top:64px;
+} */
